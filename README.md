@@ -1,5 +1,8 @@
 # Enhancing Customer Retention through Machine Learning: <br> Segmentation, Churn Prediction, and Product Recommendation – A Case Study on Flipkart Data.
 
+**Data used in this project:** [Flipkart Dataset](https://www.kaggle.com/datasets/giamnguyn/flipkart-dataset-study-purpose-only) <br>
+**Original data:** [Flipkart-sales-Dataset](https://www.kaggle.com/datasets/iyumrahul/flipkartsalesdataset)
+
 # Project Structure
 ```text
 root/
@@ -31,6 +34,7 @@ root/
 
 # Resources
 [What is Landed Cost?](https://www.dhl.com/discover/en-in/logistics-advice/essential-guides/landed-cost-meaning-formula-calculation)
+
 
 
 
