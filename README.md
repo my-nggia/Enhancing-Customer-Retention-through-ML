@@ -1,7 +1,7 @@
 # Enhancing Customer Retention through Machine Learning: <br> Segmentation, Churn Prediction, and Product Recommendation – A Case Study on Flipkart Data.
 
 # Project Structure
-
+```text
 root/
 ├── data/
 │   ├── anomalies/
@@ -31,6 +31,7 @@ root/
 
 # Resources
 [What is Landed Cost?](https://www.dhl.com/discover/en-in/logistics-advice/essential-guides/landed-cost-meaning-formula-calculation)
+
 
 
 
