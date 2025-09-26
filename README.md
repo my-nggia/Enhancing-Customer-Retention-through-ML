@@ -26,11 +26,12 @@ root/
 │       ├── missing_product_stats.csv
 │       └── unique_products.csv
 ├── 01_data_preprocessing.ipynb
-├── 02_explore_data_analysis.ipynb
+├── 02_data_sampling.ipynb
 └── README.md
 
 # Resources
 [What is Landed Cost?](https://www.dhl.com/discover/en-in/logistics-advice/essential-guides/landed-cost-meaning-formula-calculation)
+
 
 
 
